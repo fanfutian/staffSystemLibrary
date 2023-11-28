@@ -1,0 +1,3 @@
+/Users/frank/Project/staffSystem/cmake-build-debug/CMakeFiles/staffSystem.dir
+/Users/frank/Project/staffSystem/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/frank/Project/staffSystem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
